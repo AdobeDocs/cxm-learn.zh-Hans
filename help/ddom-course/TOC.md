@@ -4,8 +4,9 @@ breadcrumb-title: 数据驱动操作模型指南
 user-guide-description: 观看这些视频，了解如何使用Adobe数据驱动操作模型。
 solution: Experience Cloud
 type: 教程
+hide: true
 translation-type: tm+mt
-source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
+source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
