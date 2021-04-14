@@ -1,9 +1,9 @@
 ---
 source-git-commit: ea774529b25ecca51d3eabce9884df283c38fc24
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 # 参与
@@ -16,9 +16,9 @@ ht-degree: 93%
 
 本项目遵守 Adobe [行为准则](code-of-conduct.md)。您参与本项目，即表示同意遵守本行为准则。请将不可接受的行为报告至 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com)。
 
-## 参与者指南文档
+## 贡献者指南文档
 
-请参阅[Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+请参阅[《贡献者指南》](https://docs.adobe.com/content/help/zh-Hans/contributor/contributor-guide/introduction.html)。
 
 ## 有问题？
 
