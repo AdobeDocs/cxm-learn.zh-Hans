@@ -1,17 +1,17 @@
 ---
-title: 可交付性
+title: 可投放性
 description: 这是文章概述。
-keywords: DDOM，可交付性
-translation-type: tm+mt
+keywords: DDOM、可投放性
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '11'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 可交付性概述
+# 可投放性概述
 
 欢迎。
 
