@@ -1,17 +1,17 @@
 ---
-title: DDOM的三大支柱
-description: '更深入地了解DDOM的三大支柱（数据、KPI和流程/组织）。 '
-translation-type: tm+mt
+title: DDOM 的三大支柱
+description: '更深入地了解 DDOM 的三大支柱（数据、KPI 和流程/组织）。 '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# DDOM的三大支柱
+# DDOM 的三大支柱
 
-更深入地了解DDOM的三大支柱（数据、KPI和流程/组织）。
+更深入地了解 DDOM 的三大支柱（数据、KPI 和流程/组织）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41692)
