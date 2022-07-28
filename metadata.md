@@ -5,7 +5,7 @@ git-repo: https://github.com/AdobeDocs/cxm-learn.zh-Hans
 index: false
 hide: true
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
