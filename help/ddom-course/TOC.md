@@ -5,9 +5,8 @@ user-guide-description: 观看这些视频，了解如何使用 Adobe 数据驱�
 solution: Experience Cloud
 type: Tutorial
 hide: true
-translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 
